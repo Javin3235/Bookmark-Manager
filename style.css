@@ -1,0 +1,30 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgba(224, 175, 224, 60%);
+}
+
+h1{
+    font-size: 45px;
+    color: rgba(227, 10, 10, 0.8);
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: rgb(144, 183, 16);
+    display: flex;
+    margin-left: 3%;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    padding: 5px;
+    margin: 10px;
+    background-color:aqua;
+    display:flex;
+    justify-content:center;
+    border-radius: 15px;
+}
